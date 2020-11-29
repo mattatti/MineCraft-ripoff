@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-11-13T04:51:08.142+02:00
+  initializedAtString: 2020-11-13T04:11:07.556+02:00
+  log:
+  - commitID: 0c3926a5eca14d4e683379c3972c747881ef2321
+    mergeA: 
+    mergeB: 
+    authorName: matan atias
+    authorEmail: matan.atti@gmail.com
+    commitEmail: matan.atti@gmail.com
+    commitName: matan atias
+    summary: Initial
+    description: Initial
+    timeString: 2020-11-13T03:41:14.000+02:00
+    commitTimeString: 2020-11-13T03:41:14.000+02:00
+    changes:
+    - path: .vs\MineCraft ripoff\v16\.suo
+      fullPath: C:\Users\Matan\MineCraft ripoff\.vs\MineCraft ripoff\v16\.suo
+      projectPath: .vs\MineCraft ripoff\v16\.suo
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 67f5ca2bc46ef44aec416d34eea50e7389135881
+    mergeA: 
+    mergeB: 
+    authorName: matan atias
+    authorEmail: matan.atti@gmail.com
+    commitEmail: matan.atti@gmail.com
+    commitName: matan atias
+    summary: Revert "Add .gitignore and .gitattributes."
+    description: This reverts commit eab4b2db4e921fed23078f07bc500a8498be3413.
+    timeString: 2020-11-13T03:39:12.000+02:00
+    commitTimeString: 2020-11-13T03:39:12.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Matan\MineCraft ripoff\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\Matan\MineCraft ripoff\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: eab4b2db4e921fed23078f07bc500a8498be3413
+    mergeA: 
+    mergeB: 
+    authorName: matan atias
+    authorEmail: mat_atias@walla.com
+    commitEmail: mat_atias@walla.com
+    commitName: matan atias
+    summary: Add .gitignore and .gitattributes.
+    description: 
+    timeString: 2020-11-13T03:07:49.000+02:00
+    commitTimeString: 2020-11-13T03:07:49.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Matan\MineCraft ripoff\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\Matan\MineCraft ripoff\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
